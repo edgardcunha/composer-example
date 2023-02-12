@@ -1,4 +1,4 @@
-# docker-examples
+# Docker Examples
 
 ## Composer Example
 
