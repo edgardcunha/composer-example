@@ -1,5 +1,5 @@
 # Docker Examples
 
-## Composer Example
+## Docker Compose Example
 
-Composer config example
+Simple config example with Docker Compose
