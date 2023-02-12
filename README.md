@@ -1,2 +1,5 @@
-# composer-example
+# docker-examples
+
+## Composer Example
+
 Composer config example
